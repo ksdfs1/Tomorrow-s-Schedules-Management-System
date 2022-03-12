@@ -1,2 +1,2 @@
-# Tomorrow-s-Schedules-Management-System
+# Tomorrow's-Schedules-Management-System
 course project for oop
